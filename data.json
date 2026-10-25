@@ -1,0 +1,1666 @@
+{
+  "meta": {
+    "generated_at": "2026-10-26 01:26 UTC+8",
+    "event_count_2027": 10,
+    "event_count_2026": 6,
+    "new_event_count": 8,
+    "week_changed_count": 2,
+    "discontinued_count": 4,
+    "total_registered": 220,
+    "sources": [
+      "https://ftc-events.firstinspires.org/2026",
+      "https://ftc-events.firstinspires.org/2025",
+      "https://ftcscout.org/"
+    ],
+    "opr_note": "统计口径：当前中国资格赛报名队伍的 2025–2026 DECODE 赛季最佳总 OPR（FTCScout）；缺失值不计入均值。Week 沿用官方详情页；赛区变化按赛事代码对比，不代表首次举办。",
+    "opr_note_en": "Current China qualifier registrations × 2025–2026 DECODE season-best total OPR (FTCScout). Missing values excluded. Weeks follow official event details; event changes compare codes, not first-ever editions.",
+    "season": 2026,
+    "baseline_season": 2025
+  },
+  "events": [
+    {
+      "code": "CNSHQ1",
+      "name": "China Shanghai #1 Qualifier",
+      "week": 9,
+      "location": "Shanghai, China",
+      "venue": "华东师范大学第二附属中学",
+      "date_start": "2026-11-14",
+      "date_range": "2026-11-14",
+      "capacity": 24,
+      "registered": 16,
+      "status": "week_changed",
+      "data_status": "registered",
+      "week_2026": 16,
+      "location_2026": "Shanghai, China",
+      "opr": {
+        "registered": 16,
+        "with_opr": 9,
+        "max": 182.3014941648953,
+        "top8_avg": 115.59572127738545,
+        "top24_avg": 106.52466431447635,
+        "mean": 106.52466431447635,
+        "median": 93.78421502209088
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19666,
+          "name": "Forever Knight",
+          "opr": 182.3014941648953,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19666/quick-stats?season=2025"
+        },
+        {
+          "team": 19726,
+          "name": "FFFabulous",
+          "opr": 158.75548853172666,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19726/quick-stats?season=2025"
+        },
+        {
+          "team": 19877,
+          "name": "Thinking Unlimited #1",
+          "opr": 33.95620861120362,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19877/quick-stats?season=2025"
+        },
+        {
+          "team": 19914,
+          "name": "Thinking Unlimited #2",
+          "opr": 76.69808081495029,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19914/quick-stats?season=2025"
+        },
+        {
+          "team": 22406,
+          "name": "Future Brightness",
+          "opr": 180.79183507734476,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22406/quick-stats?season=2025"
+        },
+        {
+          "team": 24667,
+          "name": "Thinking Unlimited #3",
+          "opr": 116.47100551557216,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24667/quick-stats?season=2025"
+        },
+        {
+          "team": 25218,
+          "name": "ElephantTech",
+          "opr": 93.78421502209088,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25218/quick-stats?season=2025"
+        },
+        {
+          "team": 28660,
+          "name": "Mech Alpaca",
+          "opr": 65.31239615198318,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28660/quick-stats?season=2025"
+        },
+        {
+          "team": 31558,
+          "name": "Nebula",
+          "opr": 50.65125494052033,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31558/quick-stats?season=2025"
+        },
+        {
+          "team": 32669,
+          "name": "BNTA",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32669/quick-stats?season=2025"
+        },
+        {
+          "team": 36876,
+          "name": "IRABO",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36876/quick-stats?season=2025"
+        },
+        {
+          "team": 37048,
+          "name": "NovusSeekers",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37048/quick-stats?season=2025"
+        },
+        {
+          "team": 37049,
+          "name": "MechaSpider",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37049/quick-stats?season=2025"
+        },
+        {
+          "team": 37050,
+          "name": "Sol Invictus",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37050/quick-stats?season=2025"
+        },
+        {
+          "team": 37502,
+          "name": "Typhoon Dolphin",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37502/quick-stats?season=2025"
+        },
+        {
+          "team": 37841,
+          "name": "Lightning Marlin",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37841/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNSHQ1"
+    },
+    {
+      "code": "CNSHQ2",
+      "name": "China Shanghai #2 Qualifier",
+      "week": 10,
+      "location": "Shanghai, China",
+      "venue": "华东师范大学第二附属中学",
+      "date_start": "2026-11-15",
+      "date_range": "2026-11-15",
+      "capacity": 24,
+      "registered": 12,
+      "status": "week_changed",
+      "data_status": "registered",
+      "week_2026": 17,
+      "location_2026": "Shanghai, China",
+      "opr": {
+        "registered": 12,
+        "with_opr": 11,
+        "max": 200.76703128154278,
+        "top8_avg": 143.40237595293115,
+        "top24_avg": 120.98226355975471,
+        "mean": 120.98226355975471,
+        "median": 111.87035963768139
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19606,
+          "name": "Riser",
+          "opr": 164.14809755404565,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19606/quick-stats?season=2025"
+        },
+        {
+          "team": 19641,
+          "name": "Mars",
+          "opr": 100.59693316826319,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19641/quick-stats?season=2025"
+        },
+        {
+          "team": 19705,
+          "name": "WXYZ",
+          "opr": 200.76703128154278,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19705/quick-stats?season=2025"
+        },
+        {
+          "team": 19759,
+          "name": "SEEKERS",
+          "opr": 26.838755293753042,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19759/quick-stats?season=2025"
+        },
+        {
+          "team": 19859,
+          "name": "Reflection",
+          "opr": 124.5745453528876,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19859/quick-stats?season=2025"
+        },
+        {
+          "team": 24005,
+          "name": "Cloud8",
+          "opr": 111.87035963768139,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24005/quick-stats?season=2025"
+        },
+        {
+          "team": 25218,
+          "name": "ElephantTech",
+          "opr": 93.78421502209088,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25218/quick-stats?season=2025"
+        },
+        {
+          "team": 27501,
+          "name": "EFZ Robotics",
+          "opr": 200.2103914990331,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27501/quick-stats?season=2025"
+        },
+        {
+          "team": 27648,
+          "name": "GWO",
+          "opr": 107.03912106141047,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27648/quick-stats?season=2025"
+        },
+        {
+          "team": 27650,
+          "name": "Funovation",
+          "opr": 62.96292121800874,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27650/quick-stats?season=2025"
+        },
+        {
+          "team": 31167,
+          "name": "Bitbybit",
+          "opr": 138.01252806858503,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31167/quick-stats?season=2025"
+        },
+        {
+          "team": 37691,
+          "name": "WENLAI",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37691/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNSHQ2"
+    },
+    {
+      "code": "CNHAQ1",
+      "name": "China Hangzhou #1 Qualifier",
+      "week": 11,
+      "location": "Hangzhou, China",
+      "venue": "杭州橄榄树学校",
+      "date_start": "2026-11-28",
+      "date_range": "2026-11-28",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 19,
+        "max": 201.39652898822308,
+        "top8_avg": 144.80785952126888,
+        "top24_avg": 112.67176379827501,
+        "mean": 112.67176379827501,
+        "median": 114.5125082267047
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 8347,
+          "name": "Cosmic Singularity",
+          "opr": 73.26154235998952,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/8347/quick-stats?season=2025"
+        },
+        {
+          "team": 12527,
+          "name": "Prototype",
+          "opr": 134.52260198717835,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/12527/quick-stats?season=2025"
+        },
+        {
+          "team": 16093,
+          "name": "Cosmic Spark",
+          "opr": 125.53274792135376,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/16093/quick-stats?season=2025"
+        },
+        {
+          "team": 16095,
+          "name": "Fat Dragon",
+          "opr": 139.07870161532108,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/16095/quick-stats?season=2025"
+        },
+        {
+          "team": 19419,
+          "name": "star",
+          "opr": 97.13473450056038,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19419/quick-stats?season=2025"
+        },
+        {
+          "team": 19581,
+          "name": "IRON MAPLE (FTC) 2",
+          "opr": 94.6128125165778,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19581/quick-stats?season=2025"
+        },
+        {
+          "team": 19600,
+          "name": "Treeman 树人",
+          "opr": 133.9685116994289,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19600/quick-stats?season=2025"
+        },
+        {
+          "team": 19726,
+          "name": "FFFabulous",
+          "opr": 158.75548853172666,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19726/quick-stats?season=2025"
+        },
+        {
+          "team": 19859,
+          "name": "Reflection",
+          "opr": 124.5745453528876,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19859/quick-stats?season=2025"
+        },
+        {
+          "team": 20827,
+          "name": "Roborpunk",
+          "opr": 86.3246452230327,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/20827/quick-stats?season=2025"
+        },
+        {
+          "team": 21981,
+          "name": "Main Function",
+          "opr": 140.63375007403158,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/21981/quick-stats?season=2025"
+        },
+        {
+          "team": 22232,
+          "name": "will star",
+          "opr": 51.420815553513435,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22232/quick-stats?season=2025"
+        },
+        {
+          "team": 22385,
+          "name": "Adrenaline",
+          "opr": 39.55213973639859,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22385/quick-stats?season=2025"
+        },
+        {
+          "team": 22389,
+          "name": "AE86",
+          "opr": 114.5125082267047,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22389/quick-stats?season=2025"
+        },
+        {
+          "team": 23845,
+          "name": "ElephantNova",
+          "opr": 109.24480828976567,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23845/quick-stats?season=2025"
+        },
+        {
+          "team": 24255,
+          "name": "Wings up",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24255/quick-stats?season=2025"
+        },
+        {
+          "team": 24567,
+          "name": "Hero",
+          "opr": 94.4081758742037,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24567/quick-stats?season=2025"
+        },
+        {
+          "team": 27570,
+          "name": "BAYI RONG ZHEN",
+          "opr": 201.39652898822308,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27570/quick-stats?season=2025"
+        },
+        {
+          "team": 32008,
+          "name": "Innovators",
+          "opr": 124.57374879227848,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32008/quick-stats?season=2025"
+        },
+        {
+          "team": 32198,
+          "name": "FAST Team",
+          "opr": 97.25470492404922,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32198/quick-stats?season=2025"
+        },
+        {
+          "team": 36119,
+          "name": "Code Execution",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36119/quick-stats?season=2025"
+        },
+        {
+          "team": 36911,
+          "name": "Ether",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36911/quick-stats?season=2025"
+        },
+        {
+          "team": 37505,
+          "name": "Transform",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37505/quick-stats?season=2025"
+        },
+        {
+          "team": 38080,
+          "name": "ZeroOne Team",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38080/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNHAQ1"
+    },
+    {
+      "code": "CNHAQ2",
+      "name": "China Hangzhou #2 Qualifier",
+      "week": 12,
+      "location": "Hangzhou, China",
+      "venue": "杭州橄榄树学校",
+      "date_start": "2026-11-29",
+      "date_range": "2026-11-29",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 21,
+        "max": 184.64655502662183,
+        "top8_avg": 141.98201849656942,
+        "top24_avg": 99.26802498459139,
+        "mean": 99.26802498459139,
+        "median": 97.13473450056038
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19419,
+          "name": "star",
+          "opr": 97.13473450056038,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19419/quick-stats?season=2025"
+        },
+        {
+          "team": 19606,
+          "name": "Riser",
+          "opr": 164.14809755404565,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19606/quick-stats?season=2025"
+        },
+        {
+          "team": 19656,
+          "name": "Absolute Zero",
+          "opr": 79.48352233018028,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19656/quick-stats?season=2025"
+        },
+        {
+          "team": 19682,
+          "name": "Imagineers",
+          "opr": 184.64655502662183,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19682/quick-stats?season=2025"
+        },
+        {
+          "team": 19730,
+          "name": "Talos",
+          "opr": 50.19057351988647,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19730/quick-stats?season=2025"
+        },
+        {
+          "team": 19797,
+          "name": "Ad Astra",
+          "opr": 69.27336493035186,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19797/quick-stats?season=2025"
+        },
+        {
+          "team": 19913,
+          "name": "WanHu",
+          "opr": 61.83794800622898,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19913/quick-stats?season=2025"
+        },
+        {
+          "team": 19965,
+          "name": "智搭机器人",
+          "opr": 99.22454845639372,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19965/quick-stats?season=2025"
+        },
+        {
+          "team": 22232,
+          "name": "will star",
+          "opr": 51.420815553513435,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22232/quick-stats?season=2025"
+        },
+        {
+          "team": 23267,
+          "name": "Go My Deer",
+          "opr": 56.8951650708227,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23267/quick-stats?season=2025"
+        },
+        {
+          "team": 23687,
+          "name": "I.P.T",
+          "opr": 132.17717666115973,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23687/quick-stats?season=2025"
+        },
+        {
+          "team": 23845,
+          "name": "ElephantNova",
+          "opr": 109.24480828976567,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23845/quick-stats?season=2025"
+        },
+        {
+          "team": 24068,
+          "name": "B.R.M",
+          "opr": 179.9219122176534,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24068/quick-stats?season=2025"
+        },
+        {
+          "team": 24306,
+          "name": "Human Machine",
+          "opr": 107.51414746559924,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24306/quick-stats?season=2025"
+        },
+        {
+          "team": 24393,
+          "name": "X Team",
+          "opr": 82.95020628936872,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24393/quick-stats?season=2025"
+        },
+        {
+          "team": 24551,
+          "name": "No name",
+          "opr": 110.09433127456772,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24551/quick-stats?season=2025"
+        },
+        {
+          "team": 24599,
+          "name": "HTS",
+          "opr": 140.61710676886213,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24599/quick-stats?season=2025"
+        },
+        {
+          "team": 25787,
+          "name": "TechBY",
+          "opr": 115.0061601798793,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25787/quick-stats?season=2025"
+        },
+        {
+          "team": 29186,
+          "name": "BETA",
+          "opr": 65.81034753870695,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/29186/quick-stats?season=2025"
+        },
+        {
+          "team": 32235,
+          "name": "Ares",
+          "opr": 69.80763090130674,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32235/quick-stats?season=2025"
+        },
+        {
+          "team": 32238,
+          "name": "nanoForce",
+          "opr": 57.22937214094424,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32238/quick-stats?season=2025"
+        },
+        {
+          "team": 32669,
+          "name": "BNTA",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32669/quick-stats?season=2025"
+        },
+        {
+          "team": 36101,
+          "name": "ORITECH",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36101/quick-stats?season=2025"
+        },
+        {
+          "team": 36694,
+          "name": "RoboCloud",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36694/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNHAQ2"
+    },
+    {
+      "code": "CNSHQ3",
+      "name": "China Shanghai #3 Qualifier",
+      "week": 13,
+      "location": "Shanghai, China",
+      "venue": "上海市浦东复旦附中分校",
+      "date_start": "2026-12-12",
+      "date_range": "2026-12-12",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 16,
+        "max": 200.2103914990331,
+        "top8_avg": 146.3271885715361,
+        "top24_avg": 95.54225319014692,
+        "mean": 95.54225319014692,
+        "median": 80.69551064965573
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19597,
+          "name": "DEFY",
+          "opr": 91.58339039800472,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19597/quick-stats?season=2025"
+        },
+        {
+          "team": 19600,
+          "name": "Treeman 树人",
+          "opr": 133.9685116994289,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19600/quick-stats?season=2025"
+        },
+        {
+          "team": 19759,
+          "name": "SEEKERS",
+          "opr": 26.838755293753042,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19759/quick-stats?season=2025"
+        },
+        {
+          "team": 20106,
+          "name": "HDKWA",
+          "opr": 136.45682144012957,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/20106/quick-stats?season=2025"
+        },
+        {
+          "team": 22385,
+          "name": "Adrenaline",
+          "opr": 39.55213973639859,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22385/quick-stats?season=2025"
+        },
+        {
+          "team": 24068,
+          "name": "B.R.M",
+          "opr": 179.9219122176534,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24068/quick-stats?season=2025"
+        },
+        {
+          "team": 24255,
+          "name": "Wings up",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24255/quick-stats?season=2025"
+        },
+        {
+          "team": 24306,
+          "name": "Human Machine",
+          "opr": 107.51414746559924,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24306/quick-stats?season=2025"
+        },
+        {
+          "team": 25720,
+          "name": "Fatal Nemesis",
+          "opr": 145.243536921363,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25720/quick-stats?season=2025"
+        },
+        {
+          "team": 27501,
+          "name": "EFZ Robotics",
+          "opr": 200.2103914990331,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27501/quick-stats?season=2025"
+        },
+        {
+          "team": 28270,
+          "name": "E2Truth",
+          "opr": 32.83587136698851,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28270/quick-stats?season=2025"
+        },
+        {
+          "team": 30844,
+          "name": "CKWA Robotic",
+          "opr": 55.87137030499677,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30844/quick-stats?season=2025"
+        },
+        {
+          "team": 31558,
+          "name": "Nebula",
+          "opr": 50.65125494052033,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31558/quick-stats?season=2025"
+        },
+        {
+          "team": 31596,
+          "name": "Absolute Zero",
+          "opr": 175.71879693107698,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31596/quick-stats?season=2025"
+        },
+        {
+          "team": 32235,
+          "name": "Ares",
+          "opr": 69.80763090130674,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32235/quick-stats?season=2025"
+        },
+        {
+          "team": 32330,
+          "name": "Turing Echo",
+          "opr": 38.358419888621164,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32330/quick-stats?season=2025"
+        },
+        {
+          "team": 33982,
+          "name": "FORMSHOP",
+          "opr": 44.14310003747663,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/33982/quick-stats?season=2025"
+        },
+        {
+          "team": 36694,
+          "name": "RoboCloud",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36694/quick-stats?season=2025"
+        },
+        {
+          "team": 37050,
+          "name": "Sol Invictus",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37050/quick-stats?season=2025"
+        },
+        {
+          "team": 37064,
+          "name": "MITO-1",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37064/quick-stats?season=2025"
+        },
+        {
+          "team": 37502,
+          "name": "Typhoon Dolphin",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37502/quick-stats?season=2025"
+        },
+        {
+          "team": 37781,
+          "name": "FORMCORE",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37781/quick-stats?season=2025"
+        },
+        {
+          "team": 37841,
+          "name": "Lightning Marlin",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37841/quick-stats?season=2025"
+        },
+        {
+          "team": 38301,
+          "name": "RCF FTC",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38301/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNSHQ3"
+    },
+    {
+      "code": "CNSHQ4",
+      "name": "China Shanghai #4 Qualifier",
+      "week": 14,
+      "location": "Shanghai, China",
+      "venue": "上海市浦东复旦附中分校",
+      "date_start": "2026-12-13",
+      "date_range": "2026-12-13",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 17,
+        "max": 180.79183507734476,
+        "top8_avg": 128.9439271764677,
+        "top24_avg": 93.43988013082416,
+        "mean": 93.43988013082416,
+        "median": 97.25470492404922
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19602,
+          "name": "Star Gear Voyagers",
+          "opr": 98.94642650267429,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19602/quick-stats?season=2025"
+        },
+        {
+          "team": 19613,
+          "name": "triumph Eagle",
+          "opr": 100.6704633229095,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19613/quick-stats?season=2025"
+        },
+        {
+          "team": 19683,
+          "name": "Rizzler",
+          "opr": 138.24533640367747,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19683/quick-stats?season=2025"
+        },
+        {
+          "team": 19725,
+          "name": "Blue Power Robotics",
+          "opr": 66.7059378714944,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19725/quick-stats?season=2025"
+        },
+        {
+          "team": 19726,
+          "name": "FFFabulous",
+          "opr": 158.75548853172666,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19726/quick-stats?season=2025"
+        },
+        {
+          "team": 19730,
+          "name": "Talos",
+          "opr": 50.19057351988647,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19730/quick-stats?season=2025"
+        },
+        {
+          "team": 19797,
+          "name": "Ad Astra",
+          "opr": 69.27336493035186,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19797/quick-stats?season=2025"
+        },
+        {
+          "team": 19877,
+          "name": "Thinking Unlimited #1",
+          "opr": 33.95620861120362,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19877/quick-stats?season=2025"
+        },
+        {
+          "team": 19913,
+          "name": "WanHu",
+          "opr": 61.83794800622898,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19913/quick-stats?season=2025"
+        },
+        {
+          "team": 22406,
+          "name": "Future Brightness",
+          "opr": 180.79183507734476,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22406/quick-stats?season=2025"
+        },
+        {
+          "team": 23687,
+          "name": "I.P.T",
+          "opr": 132.17717666115973,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23687/quick-stats?season=2025"
+        },
+        {
+          "team": 24005,
+          "name": "Cloud8",
+          "opr": 111.87035963768139,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24005/quick-stats?season=2025"
+        },
+        {
+          "team": 24551,
+          "name": "No name",
+          "opr": 110.09433127456772,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24551/quick-stats?season=2025"
+        },
+        {
+          "team": 28270,
+          "name": "E2Truth",
+          "opr": 32.83587136698851,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28270/quick-stats?season=2025"
+        },
+        {
+          "team": 30066,
+          "name": "SMART",
+          "opr": 87.64256344112198,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30066/quick-stats?season=2025"
+        },
+        {
+          "team": 32198,
+          "name": "FAST Team",
+          "opr": 97.25470492404922,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32198/quick-stats?season=2025"
+        },
+        {
+          "team": 32238,
+          "name": "nanoForce",
+          "opr": 57.22937214094424,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32238/quick-stats?season=2025"
+        },
+        {
+          "team": 36119,
+          "name": "Code Execution",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36119/quick-stats?season=2025"
+        },
+        {
+          "team": 37049,
+          "name": "MechaSpider",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37049/quick-stats?season=2025"
+        },
+        {
+          "team": 37316,
+          "name": "深圳中学高中园国际队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37316/quick-stats?season=2025"
+        },
+        {
+          "team": 37317,
+          "name": "深圳中学高中园机器人队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37317/quick-stats?season=2025"
+        },
+        {
+          "team": 37326,
+          "name": "HANQI ROBOT",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37326/quick-stats?season=2025"
+        },
+        {
+          "team": 38310,
+          "name": "WZSUIS1",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38310/quick-stats?season=2025"
+        },
+        {
+          "team": 38361,
+          "name": "SESRobotics",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38361/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNSHQ4"
+    },
+    {
+      "code": "CNCHQ1",
+      "name": "China Changsha #1 Qualifier",
+      "week": 14,
+      "location": "Changsha, China",
+      "venue": "长沙北辰国际会议中心",
+      "date_start": "2026-12-19",
+      "date_range": "2026-12-19",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 18,
+        "max": 175.71879693107698,
+        "top8_avg": 128.80645331321927,
+        "top24_avg": 92.13184918230908,
+        "mean": 92.13184918230908,
+        "median": 97.50255452123345
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 16093,
+          "name": "Cosmic Spark",
+          "opr": 125.53274792135376,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/16093/quick-stats?season=2025"
+        },
+        {
+          "team": 19608,
+          "name": "dragon river",
+          "opr": 113.25805598965412,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19608/quick-stats?season=2025"
+        },
+        {
+          "team": 19641,
+          "name": "Mars",
+          "opr": 100.59693316826319,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19641/quick-stats?season=2025"
+        },
+        {
+          "team": 19665,
+          "name": "Forever Assassin",
+          "opr": 116.17286156835189,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19665/quick-stats?season=2025"
+        },
+        {
+          "team": 19914,
+          "name": "Thinking Unlimited #2",
+          "opr": 76.69808081495029,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19914/quick-stats?season=2025"
+        },
+        {
+          "team": 20827,
+          "name": "Roborpunk",
+          "opr": 86.3246452230327,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/20827/quick-stats?season=2025"
+        },
+        {
+          "team": 22389,
+          "name": "AE86",
+          "opr": 114.5125082267047,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22389/quick-stats?season=2025"
+        },
+        {
+          "team": 24567,
+          "name": "Hero",
+          "opr": 94.4081758742037,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24567/quick-stats?season=2025"
+        },
+        {
+          "team": 25832,
+          "name": "ripples",
+          "opr": 122.67037900774912,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25832/quick-stats?season=2025"
+        },
+        {
+          "team": 27813,
+          "name": "Fine Robot Alliance",
+          "opr": 31.602989165643365,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27813/quick-stats?season=2025"
+        },
+        {
+          "team": 28767,
+          "name": "Simulation Theory",
+          "opr": 23.25066496468696,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28767/quick-stats?season=2025"
+        },
+        {
+          "team": 28770,
+          "name": "顺义少年宫一战成名",
+          "opr": 19.277291303667983,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28770/quick-stats?season=2025"
+        },
+        {
+          "team": 31167,
+          "name": "Bitbybit",
+          "opr": 138.01252806858503,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31167/quick-stats?season=2025"
+        },
+        {
+          "team": 31596,
+          "name": "Absolute Zero",
+          "opr": 175.71879693107698,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31596/quick-stats?season=2025"
+        },
+        {
+          "team": 32008,
+          "name": "Innovators",
+          "opr": 124.57374879227848,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32008/quick-stats?season=2025"
+        },
+        {
+          "team": 32237,
+          "name": "BNDSJY",
+          "opr": 43.63368301969221,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32237/quick-stats?season=2025"
+        },
+        {
+          "team": 32477,
+          "name": "Origin",
+          "opr": 64.69157469401864,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32477/quick-stats?season=2025"
+        },
+        {
+          "team": 32479,
+          "name": "future star",
+          "opr": 87.43762054765031,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32479/quick-stats?season=2025"
+        },
+        {
+          "team": 36876,
+          "name": "IRABO",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36876/quick-stats?season=2025"
+        },
+        {
+          "team": 37248,
+          "name": "Torque Forge",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37248/quick-stats?season=2025"
+        },
+        {
+          "team": 37316,
+          "name": "深圳中学高中园国际队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37316/quick-stats?season=2025"
+        },
+        {
+          "team": 38080,
+          "name": "ZeroOne Team",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38080/quick-stats?season=2025"
+        },
+        {
+          "team": 38110,
+          "name": "南充搭搭乐乐",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38110/quick-stats?season=2025"
+        },
+        {
+          "team": 39141,
+          "name": "Equinox",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/39141/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNCHQ1"
+    },
+    {
+      "code": "CNCHQ2",
+      "name": "China Changsha #2 Qualifier",
+      "week": 15,
+      "location": "Changsha, China",
+      "venue": "长沙北辰国际会议中心",
+      "date_start": "2026-12-20",
+      "date_range": "2026-12-20",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 19,
+        "max": 200.99272625569995,
+        "top8_avg": 155.32327377548353,
+        "top24_avg": 111.05832082518181,
+        "mean": 111.05832082518181,
+        "median": 103.18450943734284
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 16095,
+          "name": "Fat Dragon",
+          "opr": 139.07870161532108,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/16095/quick-stats?season=2025"
+        },
+        {
+          "team": 19583,
+          "name": "源动力——深圳中学梅香学校",
+          "opr": 69.36664081868517,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19583/quick-stats?season=2025"
+        },
+        {
+          "team": 19602,
+          "name": "Star Gear Voyagers",
+          "opr": 98.94642650267429,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19602/quick-stats?season=2025"
+        },
+        {
+          "team": 19603,
+          "name": "PH",
+          "opr": 133.41272060645534,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19603/quick-stats?season=2025"
+        },
+        {
+          "team": 19608,
+          "name": "dragon river",
+          "opr": 113.25805598965412,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19608/quick-stats?season=2025"
+        },
+        {
+          "team": 19612,
+          "name": "Dream wind",
+          "opr": 125.18686250721021,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19612/quick-stats?season=2025"
+        },
+        {
+          "team": 19613,
+          "name": "triumph Eagle",
+          "opr": 100.6704633229095,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19613/quick-stats?season=2025"
+        },
+        {
+          "team": 19660,
+          "name": "Sigma",
+          "opr": 200.99272625569995,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19660/quick-stats?season=2025"
+        },
+        {
+          "team": 19682,
+          "name": "Imagineers",
+          "opr": 184.64655502662183,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19682/quick-stats?season=2025"
+        },
+        {
+          "team": 19705,
+          "name": "WXYZ",
+          "opr": 200.76703128154278,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19705/quick-stats?season=2025"
+        },
+        {
+          "team": 22404,
+          "name": "Delta",
+          "opr": 103.18450943734284,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22404/quick-stats?season=2025"
+        },
+        {
+          "team": 22715,
+          "name": "Dream Hunter",
+          "opr": 45.59599843411112,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22715/quick-stats?season=2025"
+        },
+        {
+          "team": 23267,
+          "name": "Go My Deer",
+          "opr": 56.8951650708227,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23267/quick-stats?season=2025"
+        },
+        {
+          "team": 25720,
+          "name": "Fatal Nemesis",
+          "opr": 145.243536921363,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25720/quick-stats?season=2025"
+        },
+        {
+          "team": 27648,
+          "name": "GWO",
+          "opr": 107.03912106141047,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27648/quick-stats?season=2025"
+        },
+        {
+          "team": 27650,
+          "name": "Funovation",
+          "opr": 62.96292121800874,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27650/quick-stats?season=2025"
+        },
+        {
+          "team": 29186,
+          "name": "BETA",
+          "opr": 65.81034753870695,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/29186/quick-stats?season=2025"
+        },
+        {
+          "team": 30676,
+          "name": "little red flower for you",
+          "opr": 101.17894176491765,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30676/quick-stats?season=2025"
+        },
+        {
+          "team": 30844,
+          "name": "CKWA Robotic",
+          "opr": 55.87137030499677,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30844/quick-stats?season=2025"
+        },
+        {
+          "team": 37317,
+          "name": "深圳中学高中园机器人队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37317/quick-stats?season=2025"
+        },
+        {
+          "team": 37691,
+          "name": "WENLAI",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37691/quick-stats?season=2025"
+        },
+        {
+          "team": 37910,
+          "name": "Shenzhen High School Affiliated to Southern University of Science",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37910/quick-stats?season=2025"
+        },
+        {
+          "team": 37920,
+          "name": "新序公理-NOVUS AXIOM",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37920/quick-stats?season=2025"
+        },
+        {
+          "team": 38361,
+          "name": "SESRobotics",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38361/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNCHQ2"
+    },
+    {
+      "code": "CNGUQ1",
+      "name": "China Guangzhou #1 Qualifier",
+      "week": 15,
+      "location": "Guangzhou, China",
+      "venue": "广州南沙国际会议展览中心",
+      "date_start": "2026-12-26",
+      "date_range": "2026-12-26",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 15,
+        "max": 201.39652898822308,
+        "top8_avg": 157.10207820798388,
+        "top24_avg": 113.29653134140952,
+        "mean": 113.29653134140952,
+        "median": 116.17286156835189
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 19290,
+          "name": "Bay area innovation湾区创新",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19290/quick-stats?season=2025"
+        },
+        {
+          "team": 19580,
+          "name": "Dreamer",
+          "opr": 41.444317505841134,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19580/quick-stats?season=2025"
+        },
+        {
+          "team": 19599,
+          "name": "Bay area intelligent 湾区智能",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19599/quick-stats?season=2025"
+        },
+        {
+          "team": 19660,
+          "name": "Sigma",
+          "opr": 200.99272625569995,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19660/quick-stats?season=2025"
+        },
+        {
+          "team": 19665,
+          "name": "Forever Assassin",
+          "opr": 116.17286156835189,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19665/quick-stats?season=2025"
+        },
+        {
+          "team": 19666,
+          "name": "Forever Knight",
+          "opr": 182.3014941648953,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19666/quick-stats?season=2025"
+        },
+        {
+          "team": 19683,
+          "name": "Rizzler",
+          "opr": 138.24533640367747,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19683/quick-stats?season=2025"
+        },
+        {
+          "team": 20106,
+          "name": "HDKWA",
+          "opr": 136.45682144012957,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/20106/quick-stats?season=2025"
+        },
+        {
+          "team": 21981,
+          "name": "Main Function",
+          "opr": 140.63375007403158,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/21981/quick-stats?season=2025"
+        },
+        {
+          "team": 22404,
+          "name": "Delta",
+          "opr": 103.18450943734284,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22404/quick-stats?season=2025"
+        },
+        {
+          "team": 22715,
+          "name": "Dream Hunter",
+          "opr": 45.59599843411112,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/22715/quick-stats?season=2025"
+        },
+        {
+          "team": 24393,
+          "name": "X Team",
+          "opr": 82.95020628936872,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24393/quick-stats?season=2025"
+        },
+        {
+          "team": 24599,
+          "name": "HTS",
+          "opr": 140.61710676886213,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/24599/quick-stats?season=2025"
+        },
+        {
+          "team": 25787,
+          "name": "TechBY",
+          "opr": 115.0061601798793,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/25787/quick-stats?season=2025"
+        },
+        {
+          "team": 27570,
+          "name": "BAYI RONG ZHEN",
+          "opr": 201.39652898822308,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27570/quick-stats?season=2025"
+        },
+        {
+          "team": 30753,
+          "name": "Axiom",
+          "opr": 16.091732722107523,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30753/quick-stats?season=2025"
+        },
+        {
+          "team": 32330,
+          "name": "Turing Echo",
+          "opr": 38.358419888621164,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32330/quick-stats?season=2025"
+        },
+        {
+          "team": 34088,
+          "name": "SG RoboLions",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/34088/quick-stats?season=2025"
+        },
+        {
+          "team": 36911,
+          "name": "Ether",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36911/quick-stats?season=2025"
+        },
+        {
+          "team": 36976,
+          "name": "CBBear",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36976/quick-stats?season=2025"
+        },
+        {
+          "team": 37248,
+          "name": "Torque Forge",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37248/quick-stats?season=2025"
+        },
+        {
+          "team": 37870,
+          "name": "Evolution Robotics",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37870/quick-stats?season=2025"
+        },
+        {
+          "team": 38561,
+          "name": "XF-X",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38561/quick-stats?season=2025"
+        },
+        {
+          "team": 39141,
+          "name": "Equinox",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/39141/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNGUQ1"
+    },
+    {
+      "code": "CNGUQ2",
+      "name": "China Guangzhou #2 Qualifier",
+      "week": 16,
+      "location": "Guangzhou, China",
+      "venue": "广州南沙国际会议展览中心",
+      "date_start": "2026-12-27",
+      "date_range": "2026-12-27",
+      "capacity": 24,
+      "registered": 24,
+      "status": "new_2027",
+      "data_status": "registered",
+      "week_2026": null,
+      "location_2026": null,
+      "opr": {
+        "registered": 24,
+        "with_opr": 17,
+        "max": 200.2103914990331,
+        "top8_avg": 120.69308794567068,
+        "top24_avg": 87.75789852503003,
+        "mean": 87.75789852503003,
+        "median": 79.48352233018028
+      },
+      "opr_source": "FTCScout 2025 DECODE quick-stats.tot.value (season best total OPR)",
+      "teams": [
+        {
+          "team": 8347,
+          "name": "Cosmic Singularity",
+          "opr": 73.26154235998952,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/8347/quick-stats?season=2025"
+        },
+        {
+          "team": 12527,
+          "name": "Prototype",
+          "opr": 134.52260198717835,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/12527/quick-stats?season=2025"
+        },
+        {
+          "team": 19583,
+          "name": "源动力——深圳中学梅香学校",
+          "opr": 69.36664081868517,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19583/quick-stats?season=2025"
+        },
+        {
+          "team": 19603,
+          "name": "PH",
+          "opr": 133.41272060645534,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19603/quick-stats?season=2025"
+        },
+        {
+          "team": 19612,
+          "name": "Dream wind",
+          "opr": 125.18686250721021,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19612/quick-stats?season=2025"
+        },
+        {
+          "team": 19656,
+          "name": "Absolute Zero",
+          "opr": 79.48352233018028,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19656/quick-stats?season=2025"
+        },
+        {
+          "team": 19725,
+          "name": "Blue Power Robotics",
+          "opr": 66.7059378714944,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19725/quick-stats?season=2025"
+        },
+        {
+          "team": 19965,
+          "name": "智搭机器人",
+          "opr": 99.22454845639372,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/19965/quick-stats?season=2025"
+        },
+        {
+          "team": 23070,
+          "name": "Royal Turtles",
+          "opr": 38.56949695682309,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23070/quick-stats?season=2025"
+        },
+        {
+          "team": 23723,
+          "name": "Squirtle",
+          "opr": 97.90739452032241,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23723/quick-stats?season=2025"
+        },
+        {
+          "team": 23730,
+          "name": "Duong Invaders",
+          "opr": 36.09753094387588,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23730/quick-stats?season=2025"
+        },
+        {
+          "team": 23732,
+          "name": "Peasant Rabbits",
+          "opr": 53.838312320587235,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/23732/quick-stats?season=2025"
+        },
+        {
+          "team": 27501,
+          "name": "EFZ Robotics",
+          "opr": 200.2103914990331,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/27501/quick-stats?season=2025"
+        },
+        {
+          "team": 28660,
+          "name": "Mech Alpaca",
+          "opr": 65.31239615198318,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/28660/quick-stats?season=2025"
+        },
+        {
+          "team": 30066,
+          "name": "SMART",
+          "opr": 87.64256344112198,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/30066/quick-stats?season=2025"
+        },
+        {
+          "team": 31971,
+          "name": "Shenzhen experimental school",
+          "opr": 43.704191606526415,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/31971/quick-stats?season=2025"
+        },
+        {
+          "team": 32479,
+          "name": "future star",
+          "opr": 87.43762054765031,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/32479/quick-stats?season=2025"
+        },
+        {
+          "team": 34088,
+          "name": "SG RoboLions",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/34088/quick-stats?season=2025"
+        },
+        {
+          "team": 36101,
+          "name": "ORITECH",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36101/quick-stats?season=2025"
+        },
+        {
+          "team": 36521,
+          "name": "大连艺才一队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/36521/quick-stats?season=2025"
+        },
+        {
+          "team": 37910,
+          "name": "Shenzhen High School Affiliated to Southern University of Science",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37910/quick-stats?season=2025"
+        },
+        {
+          "team": 37920,
+          "name": "新序公理-NOVUS AXIOM",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/37920/quick-stats?season=2025"
+        },
+        {
+          "team": 38298,
+          "name": "大连艺才二队",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38298/quick-stats?season=2025"
+        },
+        {
+          "team": 38310,
+          "name": "WZSUIS1",
+          "opr": null,
+          "opr_source": "https://api.ftcscout.org/rest/v1/teams/38310/quick-stats?season=2025"
+        }
+      ],
+      "source_url": "https://ftc-events.firstinspires.org/2026/CNGUQ2"
+    }
+  ],
+  "week_changes": [
+    {
+      "code": "CNSHQ1",
+      "name": "China Shanghai #1 Qualifier",
+      "location": "Shanghai, China",
+      "week_2026": 16,
+      "week_2027": 9,
+      "change": -7
+    },
+    {
+      "code": "CNSHQ2",
+      "name": "China Shanghai #2 Qualifier",
+      "location": "Shanghai, China",
+      "week_2026": 17,
+      "week_2027": 10,
+      "change": -7
+    }
+  ],
+  "discontinued": [
+    {
+      "code": "CNCHQ",
+      "name": "China FTC Chongqing Qualifier",
+      "location": "Chongqing, China",
+      "week_2026": 10
+    },
+    {
+      "code": "CNHAQ",
+      "name": "China FTC Hangzhou Qualifier",
+      "location": "Hangzhou, China",
+      "week_2026": 12
+    },
+    {
+      "code": "CNBEQ1",
+      "name": "China FTC Beijing #1 Qualifier",
+      "location": "Beijing, China",
+      "week_2026": 14
+    },
+    {
+      "code": "CNBEQ2",
+      "name": "China FTC Beijing #2 Qualifier",
+      "location": "Beijing, China",
+      "week_2026": 15
+    }
+  ]
+}
